@@ -20,8 +20,8 @@ export default function Hero() {
               <div className="space-y-4 sm:space-y-6">
                 <div className="h-56 sm:h-64 bg-linear-to-br from-primary to-secondary rounded-2xl flex items-center justify-center text-5xl sm:text-6xl font-bold text-white/50 hover-scale">
                   <img
-                    src="/kishan.jpeg"
-                    alt="Kishan Kumar Thakur"
+                    src="/sumit.jpeg"
+                    alt="Sumit Kumar mahato"
                     className="w-full h-full object-cover rounded-2xl"
                     style={{ objectPosition: "center 20%" }}
                   />
@@ -57,7 +57,7 @@ export default function Hero() {
                 </span>
               </h1>
               <span className="text-xl sm:text-4xl font-semibold text-foreground">
-                Kishan Kumar Thakur
+                Sumit Kumar Mahato 
               </span>
 
               <p
@@ -155,8 +155,8 @@ export default function Hero() {
               <div className="space-y-4 sm:space-y-6">
                 <div className="h-56 sm:h-64 bg-linear-to-br from-primary to-secondary rounded-2xl flex items-center justify-center text-5xl sm:text-6xl font-bold text-white/50 hover-scale">
                   <img
-                    src="/kishan.jpeg"
-                    alt="Kishan Kumar Thakur"
+                    src="/sumit.jpeg"
+                    alt="Sumit Kumar Mahato"
                     className="w-full h-full object-cover rounded-2xl"
                     style={{ objectPosition: "center 20%" }}
                   />
