@@ -87,7 +87,7 @@ export default function Footer() {
             <p className="text-xs sm:text-sm text-muted-foreground flex items-center gap-1 text-center sm:text-left animate-fadeInUp">
               © {currentYear} sumit kumar thakur. Made with
              <HeartIcon className="w-4 h-4 text-red-500 animate-pulse" />
-              <span className="font-semibold text-foreground">Trained by Clove IT</span>
+              <span className="font-semibold text-foreground">Trained by Kishan Kr. Thakur</span>
             </p>
 
             <button

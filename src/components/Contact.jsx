@@ -57,14 +57,14 @@ export default function Contact() {
     {
       icon: Mail,
       title: 'Email',
-      value: 'kt038153@gmail.com',
-      href: 'mailto:kt038153@gmail.com',
+      value: 'sumitkrmahato555@gmail.com',
+      href: 'mailto:sumitkrmahato555@gmail.com',
     },
     {
       icon: Phone,
       title: 'Phone',
-      value: '+977 9807631559',
-      href: 'tel:+9779807631559',
+      value: '+977 9700166155',
+      href: 'tel:+9779700166155',
     },
     {
       icon: MapPin,
@@ -191,7 +191,7 @@ export default function Contact() {
                 <Share2 className="w-4 sm:w-5 h-4 sm:h-5 text-foreground group-hover:text-primary transition-smooth shrink-0" />
                 <div className="min-w-0">
                   <p className="font-medium text-xs sm:text-sm text-foreground truncate">LinkedIn</p>
-                  <p className="text-xs text-muted-foreground truncate">https://www.linkedin.com/in/kishanthakur01/</p>
+                  <p className="text-xs text-muted-foreground truncate">https://www.linkedin.com/in/sumitkumarmahato/</p>
                 </div>
               </a>
 
@@ -215,7 +215,7 @@ export default function Contact() {
                 <Share2 className="w-4 sm:w-5 h-4 sm:h-5 text-foreground group-hover:text-primary transition-smooth shrink-0" />
                 <div className="min-w-0">
                   <p className="font-medium text-xs sm:text-sm text-foreground truncate">Social</p>
-                  <p className="text-xs text-muted-foreground truncate">https://www.facebook.com/ki.han.thakur</p>
+                  <p className="text-xs text-muted-foreground truncate">https://www.facebook.com/sumitsingh</p>
                 </div>
               </a>
             </div>

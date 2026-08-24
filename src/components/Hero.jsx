@@ -20,10 +20,10 @@ export default function Hero() {
               <div className="space-y-4 sm:space-y-6">
                 <div className="h-56 sm:h-64 bg-linear-to-br from-primary to-secondary rounded-2xl flex items-center justify-center text-5xl sm:text-6xl font-bold text-white/50 hover-scale">
                   <img
-                    src="/sumit.jpg"
+                    src="/sumit.jpeg"
                     alt="sumit kumar mahato"
                     className="w-full h-full object-cover rounded-2xl"
-                    style={{ objectPosition: "center 20%" }}
+                    style={{ objectPosition: "center 0%" }}
                   />
                 </div>
                 <div className="space-y-2 sm:space-y-3 animate-stagger">
@@ -132,7 +132,7 @@ export default function Hero() {
                 <GitBranch className="w-5 h-5" />
               </a>
               <a
-                href="https://www.linkedin.com/in/kishanthakur01/"
+                href="https://www.linkedin.com/in/sumit-kumar-mahato-5ba42b2b3/"
                 className="p-2.5 sm:p-3 bg-muted rounded-lg hover:bg-primary hover:text-white transition-smooth transform hover:scale-110 hover-glow"
                 aria-label="LinkedIn"
               >

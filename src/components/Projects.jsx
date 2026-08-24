@@ -66,7 +66,7 @@ export default function Projects() {
       description: 'Comprehensive trip planning application with itinerary creation, location discovery, and travel tips.',
       tags: ['React Native', 'Google Maps API', 'Redux', 'Expo'],
       image: '✈️',
-      link: 'https://chaltitrip.netlify.app/',
+      link: '#',
       github: '#',
       featured: false,
     },
