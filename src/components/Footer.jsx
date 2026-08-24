@@ -20,7 +20,7 @@ export default function Footer() {
           <div className="space-y-3 sm:space-y-4" data-scroll-item>
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 bg-linear-to-br from-primary to-secondary rounded-lg flex items-center justify-center text-white font-bold hover-scale">
-                K
+                S
               </div>
               <span className="font-bold text-base sm:text-lg text-foreground">sumit kumar thakur</span>
             </div>
