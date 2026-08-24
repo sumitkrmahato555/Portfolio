@@ -20,8 +20,8 @@ export default function Hero() {
               <div className="space-y-4 sm:space-y-6">
                 <div className="h-56 sm:h-64 bg-linear-to-br from-primary to-secondary rounded-2xl flex items-center justify-center text-5xl sm:text-6xl font-bold text-white/50 hover-scale">
                   <img
-                    src="/sumit.jpeg"
-                    alt="Sumit Kumar mahato"
+                    src="/sumit.jpg"
+                    alt="sumit kumar mahato"
                     className="w-full h-full object-cover rounded-2xl"
                     style={{ objectPosition: "center 20%" }}
                   />
@@ -125,7 +125,7 @@ export default function Hero() {
               style={{ animationDelay: "0.6s" }}
             >
               <a
-                href="https://github.com/kishan-964"
+                href="https://github.com/sumitkrmahato555"
                 className="p-2.5 sm:p-3 bg-muted rounded-lg hover:bg-primary hover:text-white transition-smooth transform hover:scale-110 hover-glow"
                 aria-label="GitHub"
               >
@@ -139,7 +139,7 @@ export default function Hero() {
                 <Share2 className="w-5 h-5" />
               </a>
               <a
-                href="mailto:kt038153@gmail.com"
+                href="mailto:sumitkrmahato555@gmail.com"
                 className="p-2.5 sm:p-3 bg-muted rounded-lg hover:bg-primary hover:text-white transition-smooth transform hover:scale-110 hover-glow"
                 aria-label="Email"
               >

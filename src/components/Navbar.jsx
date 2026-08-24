@@ -20,7 +20,7 @@ export default function Navbar() {
           {/* Logo */}
           <a href="#home" className="flex items-center gap-2 group shrink-0">
             <div className="w-8 h-8 sm:w-10 sm:h-10 bg-linear-to-br from-primary to-secondary rounded-lg flex items-center justify-center text-white font-bold transform group-hover:scale-110 transition-smooth">
-              K
+              S
             </div>
             <span className="font-bold text-base sm:text-lg md:text-xl text-foreground hidden xs:inline">Kishan</span>
           </a>

@@ -203,7 +203,7 @@ export default function Contact() {
                 <Link2 className="w-4 sm:w-5 h-4 sm:h-5 text-foreground group-hover:text-primary transition-smooth shrink-0" />
                 <div className="min-w-0">
                   <p className="font-medium text-xs sm:text-sm text-foreground truncate">GitHub</p>
-                  <p className="text-xs text-muted-foreground truncate">https://github.com/kishan-964</p>
+                  <p className="text-xs text-muted-foreground truncate">https://github.com/</p>
                 </div>
               </a>
 

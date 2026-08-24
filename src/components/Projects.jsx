@@ -31,7 +31,7 @@ export default function Projects() {
       tags: ['HTML', 'CSS', 'JavaScript'],
       image: '💌',
       link: 'https://parposal-card.vercel.app/',
-      github: 'https://github.com/kishan-964/Parposal-card.git',
+      github: 'https://github.com/sumitkrmahato555/Parposal-card.git',
       featured: false,
     },
     {
@@ -40,7 +40,7 @@ export default function Projects() {
       tags: ['React', 'JavaScript', 'CSS', 'HTML'],
       image: '❤️',
       link: 'https://love-calculator-beryl-nine.vercel.app/',
-      github: 'https://github.com/kishan-964/love-calculator.git',
+      github: 'https://github.com/sumitkrmahato555/love-calculator.git',
       featured: false,
     },
     {

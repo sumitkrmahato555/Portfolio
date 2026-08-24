@@ -22,7 +22,7 @@ export default function Footer() {
               <div className="w-8 h-8 bg-linear-to-br from-primary to-secondary rounded-lg flex items-center justify-center text-white font-bold hover-scale">
                 K
               </div>
-              <span className="font-bold text-base sm:text-lg text-foreground">Kishan Kumar Thakur</span>
+              <span className="font-bold text-base sm:text-lg text-foreground">sumit kumar thakur</span>
             </div>
             <p className="text-xs sm:text-sm text-muted-foreground leading-relaxed">
               Crafting exceptional digital experiences with cutting-edge technology and creative vision.
@@ -85,7 +85,7 @@ export default function Footer() {
         <div className="border-t border-border py-6 sm:py-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-4">
             <p className="text-xs sm:text-sm text-muted-foreground flex items-center gap-1 text-center sm:text-left animate-fadeInUp">
-              © {currentYear} Kishan Kumar Thakur. Made with
+              © {currentYear} sumit kumar thakur. Made with
              <HeartIcon className="w-4 h-4 text-red-500 animate-pulse" />
               <span className="font-semibold text-foreground">Trained by Clove IT</span>
             </p>
