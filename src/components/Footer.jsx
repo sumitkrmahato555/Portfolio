@@ -22,7 +22,8 @@ export default function Footer() {
               <div className="w-8 h-8 bg-linear-to-br from-primary to-secondary rounded-lg flex items-center justify-center text-white font-bold hover-scale">
                 S
               </div>
-              <span className="font-bold text-base sm:text-lg text-foreground">sumit kumar thakur</span>
+              <span className="font-bold text-base sm:text-lg text-foreground">Sumit Kumar Mahato
+              </span>
             </div>
             <p className="text-xs sm:text-sm text-muted-foreground leading-relaxed">
               Crafting exceptional digital experiences with cutting-edge technology and creative vision.
